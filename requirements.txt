@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+asyncio
+hachoir
+requests
+streamlink
+yt-dlp
