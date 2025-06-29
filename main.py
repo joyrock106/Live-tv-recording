@@ -94,8 +94,8 @@ There will be a time gap to remove time you Have To Buy Subscription /plan For d
     inline_keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🚨Updates🚨", url="https://t.me/RoyalToonsOfficial"),
-                InlineKeyboardButton("👷Support👷", url="https://t.me/rv2006rv")
+                InlineKeyboardButton("🚨Updates🚨", url="https://t.me/JOYROCK100"),
+                InlineKeyboardButton("👷Support👷", url="https://t.me/JOYROCK10")
             ]
         ]
     )
@@ -109,8 +109,8 @@ async def get_start(bot, message) -> None:
     inline_keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🚨Updates🚨", url="https://t.me/RoyalToonsOfficial"),
-                InlineKeyboardButton("👷Support👷", url="https://t.me/rv2006rv")
+                InlineKeyboardButton("🚨Updates🚨", url="https://t.me/JOYROCK100"),
+                InlineKeyboardButton("👷Support👷", url="https://t.me/JOYROCK10")
             ]
         ]
     )
@@ -127,18 +127,18 @@ Upgrade your plan to get the following benefit:
 - No time gap in recorded videos 
 - Recording time will be more than 50 minutes 
 
-🪙 1 Month Plan 🪙 :- Rs.40
+🪙 1 Month Plan 🪙 :- Rs.0.5$
  
- 💫 3 Months plan💫 :- Rs.140
+ 💫 3 Months plan💫 :- Rs.0.10
  
- 💎 6 Months Plan 💎 :- Rs.270
+ 💎 6 Months Plan 💎 :- Rs.0.27
 
 To upgrade your plan, please contact the bot owner."""
 
     inline_keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("Contact Owner", url="https://t.me/rv2006rv")
+                InlineKeyboardButton("Contact Owner", url="https://t.me/JOYROCK100")
             ]
         ]
     )
