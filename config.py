@@ -3,7 +3,7 @@ from os import environ
 class Config(object):
     API_ID = int(environ.get("API_ID", 27744634))
     API_HASH = environ.get("API_HASH", "0db310b3f4e8b07d938bcf2295bcb03d")
-    BOT_TOKEN = environ.get("BOT_TOKEN", "7881287357:AAHvXoq84r1SbVPQstrvhBkLbBsrK8lxlcw")
+    BOT_TOKEN = environ.get("BOT_TOKEN", "7659176544:AAEhXMiwIdeYkL_m-yGN4GMl8uuITe81gL0")
     #The bot will work only with following users
     AUTH_USERS = list(int(x) for x in environ.get("AUTH_USERS", "8078418903").split(" "))
     #Owner ID is the user id of your telegram account
