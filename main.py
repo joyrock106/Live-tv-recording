@@ -6,7 +6,7 @@ from telebot.types import Message
 from datetime import datetime
 
 # ==== CONFIG ====
-BOT_TOKEN = "7641596987:AAHYUJ0CTkK0jVCeYWpDwCgUYEdMqPeL0pY"   # Put your bot token here
+BOT_TOKEN = "7585807006:AAF0JY0e2ZZBGHJ7ZQSL_-90fuU_TShLt6U"   # Put your bot token here
 DOWNLOAD_DIR = "./downloads"
 LOG_DIR = "./logs"
 MAX_UPLOAD_SIZE = 2048 * 1024 * 1024  # 2 GB
